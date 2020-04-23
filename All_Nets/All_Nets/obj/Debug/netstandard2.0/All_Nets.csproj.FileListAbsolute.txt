@@ -1,0 +1,14 @@
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.csprojAssemblyReference.cache
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\Views\LoginPage.xaml.g.cs
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.AssemblyInfoInputs.cache
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.AssemblyInfo.cs
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\bin\Debug\netstandard2.0\All_Nets.deps.json
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\bin\Debug\netstandard2.0\All_Nets.dll
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\bin\Debug\netstandard2.0\ref\All_Nets.dll
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\bin\Debug\netstandard2.0\All_Nets.pdb
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.dll
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\ref\All_Nets.dll
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.pdb
+C:\Users\royhi\source\repos\All_Nets\All_Nets\All_Nets\obj\Debug\netstandard2.0\All_Nets.csproj.CoreCompileInputs.cache
